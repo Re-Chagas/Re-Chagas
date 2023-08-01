@@ -17,7 +17,4 @@
   />
     <img src="https://github-readme-stats.vercel.app/api?username=cmRenato&show_icons=true" 
   />  
-
-
-    
 </picture>
