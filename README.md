@@ -18,6 +18,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=cmRenato&show_icons=true" 
   />  
 
-![Snake animation](https://github.com/ldmfabio/ldmfabio/blob/output/github-contribution-grid-snake.svg)
+
     
 </picture>
